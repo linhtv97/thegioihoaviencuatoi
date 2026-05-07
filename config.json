@@ -1,0 +1,27 @@
+{
+  "inputDir": "./input",
+  "outputDir": "./output",
+
+  "crop": {
+    "enabled": true,
+    "left": 250,
+    "top": 662,
+    "width": 750,
+    "height": 750
+  },
+
+  "resize": {
+    "enabled": false,
+    "width": 400,
+    "height": 300,
+    "fit": "cover"
+  },
+
+  "output": {
+    "format": "auto",
+    "quality": 90,
+    "suffix": ""
+  },
+
+  "supported_formats": ["jpg", "jpeg", "png", "webp", "avif", "tiff", "gif"]
+}
